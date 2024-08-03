@@ -1,0 +1,39 @@
+新聞,#genre#
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新聞2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+寰宇財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+國會頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+立法院會議,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+
+戲劇,#genre#
+民視戲劇館,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+華視戲劇頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+八大劇樂部,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+
+綜藝,#genre#
+飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+中視經典綜藝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+華視綜藝頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+
+紀實,#genre#
+大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+
+卡通,#genre#
+YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+小豬佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+
+其他,#genre#
+大愛,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+大愛2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+GOOD TV 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+GOOD TV 好消息2台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
