@@ -1,11 +1,11 @@
 {
-  "spider":"./jar/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0",
+  "spider":"./jar/fan.txt;md5;a509c54dbfed19222e5b799a1fa86ad4",
   "lives":[{"name":"live","type":0,"url":"./TV-LIVE.txt","playerType":2,"ua":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "wallpaper":"https://qist.cc/api/api.php",
   "sites":[
     {"key":"黑木耳","name":"👑黑木耳👑","type":3,"api":"csp_XBPQ","playUrl":"https://player.heimuer.tv/index.html?url=","ext":"./json/heimuer.json","jar":"./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
     {"key":"華為","name":"👍華為👍","type":1,"api":"https://cjhwba.com/api.php/provide/vod/","playUrl":"https://player.hw8.lol/player?url="},
-    {"key":"非凡","name":"👍非凡","type":1,"api":"http://api.ffzyapi.com/api.php/provide/vod/","playUrl":"https://svip.ffzyplay.com/?url=","jar":"./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
+    {"key":"非凡","name":"👍非凡","type":1,"api":"http://api.ffzyapi.com/api.php/provide/vod/","playUrl":"https://svip.ffzyplay.com/?url="},
     {"key":"臥龍","name":"臥龍","type":1,"api":"https://collect.wolongzy.cc/api.php/provide/vod/","playUrl":"https://jx.wolongzywcdn.com:65/m3u8.php?url="},
     {"key":"無盡","name":"無盡","type":1,"api":"https://api.wujinapi.me/api.php/provide/vod/","playUrl":"https://jx.wujinkk.com/dplayer/?url="},
     {"key":"飛速","name":"飛速","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/","playUrl":"https://www.feisuplayer.com/m3u8/?url="}
