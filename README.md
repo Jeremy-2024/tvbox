@@ -9,7 +9,7 @@ TVBox APK下載：https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
 配置地址：https://raw.githubusercontent.com/Jeremy-2024/TVBox/main/TV.json
 
-直播地址：https://raw.githubusercontent.com/Jeremy-2024/TVBox/main/TV-LIVE.json
+直播地址：https://raw.githubusercontent.com/Jeremy-2024/TVBox/main/TV-LIVE.txt
 
 EPG地址：https://epg.112114.xyz/?ch={name}&date={date}
 
